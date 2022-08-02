@@ -1,7 +1,7 @@
 
 # Intro
 
-I am .........
+I am a full stack Web3 developer. I build Decentralized applications using modern programming languages/libraries/frameworks/tools like HTML, CSS, Javascript, React.js, Next.js, Solidity, Rust and Most Recently, Move. I am a self-taught developer and i like to learn new skills everyday. I have 3 years experience with building dApps(Web3) and about 10 years general coding experience.
 
 # Currently
 
