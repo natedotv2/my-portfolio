@@ -32,3 +32,4 @@ Ask me in person for stories that I'm afraid to share with the internet.
 - enabling a brighter future.
 - doing better.
 - you not checking the commit history for earlier drafts of this file.
+- you not getting pissed because you checked and there was nothing to see :)
