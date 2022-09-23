@@ -3,7 +3,7 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 4,
+    competency: 5,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -50,6 +50,11 @@ const skills = [
     title: 'Heroku',
     competency: 3,
     category: ['Web Development', 'Tools'],
+  },
+  {
+    title: 'Move',
+    competency: 3,
+    category: ['Aptos', 'Blockchain Development', 'Sui'],
   },
   {
     title: 'MongoDB',

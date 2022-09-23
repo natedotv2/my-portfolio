@@ -5,7 +5,7 @@ const positions = [
     link: 'https://zinax.org/',
     daterange: 'October 2021 – March 2022',
     points: [
-      'Devloped and deployed smart contracts on the Binance Smart Chain for the entire platform',
+      'Developed and deployed smart contracts on the Binance Smart Chain for the entire platform',
     ],
   },
 ];
