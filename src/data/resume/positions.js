@@ -8,6 +8,15 @@ const positions = [
       'Developed and deployed smart contracts on the Binance Smart Chain for the entire platform',
     ],
   },
+  {
+    company: 'Agora Markets',
+    position: 'Full Stack Engineer',
+    link: 'https://agoramarkets.netlify.app/',
+    daterange: 'May 2022 – July 2022',
+    points: [
+      'Revamped the UI and maintained the website',
+    ],
+  },
 ];
 
 export default positions;
