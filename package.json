@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DeFiDruid/my-portfolio.git"
+    "url": "https://github.com/natedotv2/my-portfolio.git"
   },
   "engines": {
     "node": ">=14.x"
