@@ -5,7 +5,7 @@ I am a full stack Web3 developer. I build Decentralized applications using moder
 
 # Currently
 
-I am working on several Pet projects (mostly web3 based)
+I am working on several Pet projects (mostly web3 based) and freelancing on fiverr and freelancer.com
 
 # Some history
 
@@ -28,7 +28,7 @@ Ask me in person for stories that I'm afraid to share with the internet.
 
 # I dream of
 
-- always finding inspiration.
+- always finding inspiration through learning and knowledge.
 - enabling a brighter future.
 - doing better.
 - you not checking the commit history for earlier drafts of this file.
